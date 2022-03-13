@@ -51,4 +51,4 @@ my_layout = {
 }
 
 fig = {'data': data, 'layout': my_layout}
-offline.plot(fig, filename = 'python_repos.html')
+offline.plot(fig, filename = 'working-with-apis/python_repos.html')
